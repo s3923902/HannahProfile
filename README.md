@@ -1,6 +1,9 @@
 # Personal Information
 My name is Hannah, I was born and raised in Sydney. My parents are originally from Korean and growing up I was always stuck in between cultures. As stereotypes go, math is my worst nightmare, but I play a musical instrument and majored in classical piano for 1 year before I decided that I could not pursue a career in music and decided to look for a different avenue. My favourite hobby is travelling and learning new languages. I fluently speak Korean and am currently learning Chinese Mandarin with a group of friends. I am also in the process of learning Spanish on the side.
 
+![image](https://user-images.githubusercontent.com/94890493/145713860-6fcbf943-d94a-42b3-986b-d592782012a2.png)
+
+
 # Interest in IT
 Q: What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? 
 
@@ -14,3 +17,6 @@ I understand that IT covers a wide branch, and I would like to deepen my underst
 
 # Ideal Job
 [Link] (https://au.indeed.com/viewjob?jk=3e6b5da1a3317d74&tk=1fmn5pq97rjdb802&from=serp&vjs=3)
+![image](https://user-images.githubusercontent.com/94890493/145713843-425b4e7c-97a2-41e5-933a-35440a935bf5.png)
+![image](https://user-images.githubusercontent.com/94890493/145713852-d86402d9-4402-4492-b527-93f9612b5b4d.png)
+![image](https://user-images.githubusercontent.com/94890493/145713855-956b04df-fead-4294-837e-f2132187b178.png)

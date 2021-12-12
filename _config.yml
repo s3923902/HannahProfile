@@ -1,3 +1,7 @@
-theme: jekyll-theme-time-machine
+# basic options
+title: Hannah Son
 author: Hannah Son
 email: s3923902@student.rmit.edu.au
+
+# Build settings
+theme: jekyll-theme-time-machine

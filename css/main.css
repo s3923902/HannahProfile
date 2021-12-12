@@ -3,12 +3,10 @@ body {
     width: 70%;
 }
 h1 {
-    font-size: 3em;
+    font-size: 5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1em;
-    line-height: 1.4em;
-    font-family: 'Gabriola';
+    font-size: 0.8em;
     color: #333;
 }

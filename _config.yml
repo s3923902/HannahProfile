@@ -3,6 +3,9 @@ title: Hannah Son
 email: s3923902@student.rmit.edu.au
 description: Assignment 1 - Personal Profile
 
+show_excerpts: true
+show_frame: true
+
 # Build settings
 markdown: kramdown
 theme: minima

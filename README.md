@@ -9,4 +9,4 @@ What do you expect to learn during your studies?
 I understand that IT covers a wide branch, and I would like to deepen my understanding of the different branches and jobs available in this field. I expect to learn practical skills such as programming and research methods into tracing back user footprints as well as research methods to understand how other users view IT and apply it in their own lives to improve IT experiences. 
 
 # Ideal Job
-![Link] (https://au.indeed.com/viewjob?jk=3e6b5da1a3317d74&tk=1fmn5pq97rjdb802&from=serp&vjs=3)
+[Link] (https://au.indeed.com/viewjob?jk=3e6b5da1a3317d74&tk=1fmn5pq97rjdb802&from=serp&vjs=3)
